@@ -1,0 +1,32 @@
+1- Analise o diagrama de classes abaixo e implemente as classes utilizando código PHP.
+
+*Diagrama anexado em imagem*
+
+Critérios de avaliação:
+
+A estrutura da classe.
+Propriedades com os tipos de dados e modificadores de acesso adequados.
+Métodos com os tipos de dados de parâmetros e retorno corretos.
+Utilizou o conceito de encapsulamento.
+Código atende as recomendações da PSR-1.
+
+2-Aplicando o conceito de abstração, crie uma nova classe derivada da classe Turma que melhor represente algumas de suas propriedades(atributos) e métodos.
+
+Critérios de avaliação:
+
+A estrutura da classe.
+Propriedades com os tipos de dados e modificadores de acesso adequados.
+Métodos com os tipos de dados de parâmetros e retorno corretos.
+Utilizou o conceito de abstração.
+Código atende as recomendações da PSR-1.
+
+3-Implemente o método ‘validarMatrícula’, o qual deve ter acesso restrito a classe, que será responsável por verificar se o aluno atende à idade mínima necessária para ingressar no curso. Ao realizar a matrícula, o sistema deverá, primeiramente, validar a matrícula por meio desse método, garantindo que apenas alunos elegíveis sejam matriculados.
+
+Critérios de avaliação:
+
+Lógica utilizada.
+Métodos com os tipos de dados de parâmetros e retorno corretos.
+Utilizou o conceito de encapsulamento.
+Código atende as recomendações da PSR-1.
+
+**Questões elaboradas pelo professor Juscelino Fernandes do Centro Universitário de Campo Mourão.
