@@ -1,0 +1,17 @@
+{
+    "name": "projetoav/mayane",
+    "description": "Projeto avaliativo da disciplina POO do curso TADS do C.U. Integrado de Campo Mourão",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Projetoav\\Mayane\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mayane Costa Lopes"
+        }
+    ],
+    "require": {}
+}
