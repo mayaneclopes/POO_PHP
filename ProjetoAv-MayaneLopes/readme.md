@@ -1,4 +1,4 @@
-Projeto realizado para a disciplina POO do curso de TADS do Centro Universitário Integrado de Campo Mourão, ministrado pelo professor Juscelino, a quem pertence os diagramas anexados e enunciados a seguir:
+Projeto realizado para a disciplina POO do curso de TADS do Centro Universitário Integrado de Campo Mourão, ministrado pelo professor Juscelino Fernandes, a quem pertence os diagramas anexados e enunciados a seguir:
 
 Questão 1:
 
